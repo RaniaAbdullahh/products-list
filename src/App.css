@@ -91,3 +91,18 @@ form input[type="submit"]:hover{
     font-size: 18px;
     border: 2px solid #08080833;
 }
+
+.quantity{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  
+  }
+      
+  .quantity .qbtn{
+    cursor: pointer;
+    width: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+  
+  }
